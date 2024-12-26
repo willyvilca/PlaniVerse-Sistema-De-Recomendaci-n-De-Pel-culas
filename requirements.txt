@@ -1,4 +1,4 @@
-﻿altair==5.0.1
+altair==5.0.1
 attrs==23.1.0
 blinker==1.6.2
 cachetools==5.3.1
@@ -18,12 +18,12 @@ jsonschema-specifications==2023.6.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
 mdurl==0.1.2
-numpy
+numpy==1.25.0
 packaging==23.1
 pandas==2.0.3
 Pillow==9.5.0
 protobuf==4.23.4
-pyarrow==12.0.0
+pyarrow==12.0.1
 pydeck==0.8.1b0
 Pygments==2.15.1
 Pympler==1.0.1
